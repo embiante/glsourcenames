@@ -219,7 +219,7 @@
           <target state="translated">Set up G/L Source Names</target><note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit O4N GL SN Assisted Setup - NamedType GLSourceNamesTxt</note>
         </trans-unit><trans-unit id="Codeunit 3669574782 - NamedType 2069865725" size-unit="char" translate="yes" xml:space="preserve">
-          <source>You have not been granted required access rights to start the Assisted Setup.\\The Assisted Setup for G/L Source Names is about assigning the required permissions to users.  To be able to assign permissions you need to be granted either the SUPER og SECURITY permission set.</source>
+          <source>You have not been granted required access rights to start the Assisted Setup.\\The Assisted Setup for G/L Source Names is about assigning the required permissions to users.  To be able to assign permissions you need to be granted either the SUPER or SECURITY permission set.</source>
           <target state="translated">You have not been granted required access rights to start the Assisted Setup.\\The Assisted Setup for G/L Source Names is about assigning the required permissions to users.  To be able to assign permissions you need to be granted either the SUPER og SECURITY permission set.</target><note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit O4N GL SN Assisted Setup - NamedType RequiredPermissionMissingErr</note>
         </trans-unit><trans-unit id="Codeunit 3669574782 - Method 2104127805 - NamedType 3941653687" size-unit="char" translate="yes" xml:space="preserve">
